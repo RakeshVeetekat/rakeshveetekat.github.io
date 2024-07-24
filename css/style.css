@@ -3,6 +3,7 @@ body, html {
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #353535;
+	background-color: #353535;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -160,7 +161,7 @@ hr {
 	padding: 10px 0 40px 0;
 }
 .intro h1 {
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 600;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -184,6 +185,7 @@ header .intro-text {
 #about .about-text {
 	margin-left: 10px;
 	text-align: center;
+	background: #ffffff;
 }
 #about img {
 	border-radius: 50%;
@@ -282,7 +284,7 @@ ol.type li a:hover {
 	position: absolute;
 	text-align: center;
 	margin: 0 auto;
-	color: #353535;
+	color: #ffffff;
 	background: rgba(0, 0, 0, 0.66);
 	padding: 30% 0 0 0;
 	height: 100%;
@@ -293,7 +295,7 @@ ol.type li a:hover {
 .hover-bg .hover-text>h4 {
 	text-transform: uppercase;
 	opacity: 0;
-	color: #353535;
+	color: #ffffff;
 	-webkit-transform: translateY(100%);
 	transform: translateY(100%);
 	transition: all 0.3s;
@@ -372,16 +374,16 @@ label {
 	box-shadow: transparent;
 }
 .form-control::-webkit-input-placeholder {
-color: #2c3e50;
+color: #ffffff;
 }
 .form-control:-moz-placeholder {
-color: #2c3e50;
+color: #ffffff;
 }
 .form-control::-moz-placeholder {
-color: #2c3e50;
+color: #ffffff;
 }
 .form-control:-ms-input-placeholder {
-color: #2c3e50;
+color: #ffffff;
 }
 #contact .social {
 	margin-top: 80px;
@@ -397,7 +399,7 @@ color: #2c3e50;
 	transition: all 0.5s;
 }
 #contact .social i.fa:hover {
-	color: #ffffff;
+	color: #353535;
 }
 .btn:active, .btn.active {
 	background-image: none;
