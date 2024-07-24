@@ -8,14 +8,14 @@ body, html {
 }
 h2 {
 	margin: 0 0 20px 0;
-	color: #555;
+	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 30px;
 }
 h3, h4 {
-	color: #222;
+	color: #ffffff;
 	font-size: 18px;
 	font-weight: 300;
 	letter-spacing: 1px;
@@ -31,11 +31,11 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #555;
+	color: #ffffff;
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #000;
+	color: #ffffff;
 }
 ul, ol {
 	list-style: none;
@@ -67,7 +67,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #666;
+	background: #ffffff;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -91,13 +91,13 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #f6f6f6;
+	background-color: #353535;
 	border-radius: 0px;
 	padding: 10px 0;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #353535;
 }
 .navbar-custom a {
-	color: #555;
+	color: #ffffff;
 }
 .navbar-custom .nav li a {
 	margin: 0 60px;
@@ -109,7 +109,7 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #000;
+	color: #ffffff;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
@@ -124,13 +124,13 @@ hr {
 	background-color: rgba(255,255,255,.3);
 }
 .navbar-custom .nav li.active a:hover {
-	color: #fff;
+	color: #353535;
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #555;
+	color: #ffffff;
 	background-color: transparent;
-	border-color: #777;
+	border-color: #ffffff;
 	padding: 14px 20px;
 	margin: 0;
 	font-size: 16px;
@@ -138,8 +138,8 @@ hr {
 	margin-top: 20px;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #fff;
-	background-color: #121d1f;
+	color: #353535;
+	background-color: #ffffff;
 	border-color: #121d1f;
 }
 /* Header Section */
@@ -148,9 +148,9 @@ hr {
 	width: 100%;
 	padding: 0;
 	text-align: center;
-	color: #333;
+	color: #ffffff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #e5e5e5;
+	background-color: #353535;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -165,7 +165,7 @@ hr {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	color: #333;
+	color: #ffffff;
 }
 .intro p {
 	font-size: 20px;
@@ -198,7 +198,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
-	background: #f6f6f6;
+	background: #353535;
 }
 .categories {
 	padding-bottom: 30px;
@@ -213,18 +213,18 @@ ol.type li {
 }
 ol.type li a {
 	border: 1px solid #777;
-	color: #555;
+	color: #ffffff;
 	padding: 8px 20px;
 }
 ol.type li a.active {
-	background: #222;
+	background: #ffffff;
 	border: 1px solid #222;
-	color: #fff;
+	color: #353535;
 }
 ol.type li a:hover {
-	background: #222;
-	border: 1px solid #222;
-	color: #fff;
+	background: #ffffff;
+	border: 1px solid #ffffff;
+	color: #353535;
 }
 .isotope-item {
 	z-index: 2
@@ -281,7 +281,7 @@ ol.type li a:hover {
 	position: absolute;
 	text-align: center;
 	margin: 0 auto;
-	color: #ffffff;
+	color: #353535;
 	background: rgba(0, 0, 0, 0.66);
 	padding: 30% 0 0 0;
 	height: 100%;
@@ -292,7 +292,7 @@ ol.type li a:hover {
 .hover-bg .hover-text>h4 {
 	text-transform: uppercase;
 	opacity: 0;
-	color: #fff;
+	color: #353535;
 	-webkit-transform: translateY(100%);
 	transform: translateY(100%);
 	transition: all 0.3s;
@@ -331,7 +331,7 @@ ol.type li a:hover {
 	padding-top: 20px;
 	font-size: 20px;
 	font-weight: 400;
-	color: #fff;
+	color: #353535;
 }
 #contact form {
 	padding: 30px 0;
@@ -352,7 +352,7 @@ label {
 	padding: 6px 12px;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #2c3e50;
+	color: #ffffff;
 	background-color: rgba(255,255,255,0.8);
 	background-image: none;
 	border: 1px solid #999;
@@ -395,7 +395,7 @@ color: #2c3e50;
 	transition: all 0.5s;
 }
 #contact .social i.fa:hover {
-	color: #000;
+	color: #ffffff;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -409,15 +409,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
-	color: #777;
+	background: #353535;
+	color: #ffffff;
 	padding: 30px 0 25px 0;
 }
 #footer p {
 	font-size: 13px;
 }
 #footer a {
-	color: #555;
+	color: #ffffff;
 }
 #footer a:hover {
 	color: #000;
