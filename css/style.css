@@ -185,7 +185,6 @@ header .intro-text {
 #about .about-text {
 	margin-left: 10px;
 	text-align: center;
-	background: #ffffff;
 }
 #about img {
 	border-radius: 50%;
@@ -197,6 +196,7 @@ header .intro-text {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
+	color: #ffffff;
 }
 /* Portfolio Section */
 #portfolio {
@@ -357,7 +357,7 @@ label {
 	font-size: 14px;
 	line-height: 1.42857143;
 	color: #ffffff;
-	background-color: rgba(255,255,255,0.8);
+	background-color: rgba(171, 171, 171, 0.8);
 	background-image: none;
 	border: 1px solid #999;
 	border-radius: 0;
@@ -395,11 +395,11 @@ color: #ffffff;
 #contact .social i.fa {
 	font-size: 22px;
 	padding: 4px;
-	color: #444;
+	color: #ffffff;
 	transition: all 0.5s;
 }
 #contact .social i.fa:hover {
-	color: #353535;
+	color: #a2a2a2;
 }
 .btn:active, .btn.active {
 	background-image: none;
