@@ -2,7 +2,7 @@ body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #ffffff;
+	color: #353535;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -115,7 +115,7 @@ hr {
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #000;
+	color: #cac5c5;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -179,6 +179,7 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 120px 0;
+	background: #353535;
 }
 #about .about-text {
 	margin-left: 10px;
@@ -326,6 +327,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
+	background: #353535;
 }
 #contact h3 {
 	padding-top: 20px;
