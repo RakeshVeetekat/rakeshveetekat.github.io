@@ -2,8 +2,8 @@ body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #353535;
-	background-color: #353535;
+	color: #102c37;
+	background-color: #102c37;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -95,10 +95,10 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #353535;
+	background-color: #102c37;
 	border-radius: 0px;
 	padding: 10px 0;
-	border-bottom: 2px solid #353535;
+	border-bottom: 2px solid #102c37;
 }
 .navbar-custom a {
 	color: #ffffff;
@@ -128,7 +128,7 @@ hr {
 	background-color: rgba(255,255,255,.3);
 }
 .navbar-custom .nav li.active a:hover {
-	color: #353535;
+	color: #102c37;
 }
 .btn-default {
 	text-transform: uppercase;
@@ -142,7 +142,7 @@ hr {
 	margin-top: 20px;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #353535;
+	color: #102c37;
 	background-color: #ffffff;
 	border-color: #121d1f;
 }
@@ -154,7 +154,7 @@ hr {
 	text-align: center;
 	color: #ffffff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #353535;
+	background-color: #102c37;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -183,7 +183,7 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 120px 0;
-	background: #353535;
+	background: #102c37;
 }
 #about .about-text {
 	margin-left: 10px;
@@ -204,7 +204,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
-	background: #353535;
+	background: #102c37;
 }
 .categories {
 	padding-bottom: 30px;
@@ -225,12 +225,12 @@ ol.type li a {
 ol.type li a.active {
 	background: #ffffff;
 	border: 1px solid #222;
-	color: #353535;
+	color: #102c37;
 }
 ol.type li a:hover {
 	background: #ffffff;
 	border: 1px solid #ffffff;
-	color: #353535;
+	color: #102c37;
 }
 .isotope-item {
 	z-index: 2
@@ -332,13 +332,13 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
-	background: #353535;
+	background: #102c37;
 }
 #contact h3 {
 	padding-top: 20px;
 	font-size: 20px;
 	font-weight: 400;
-	color: #353535;
+	color: #102c37;
 }
 #contact form {
 	padding: 30px 0;
@@ -416,7 +416,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #353535;
+	background: #102c37;
 	color: #ffffff;
 	padding: 30px 0 25px 0;
 }
